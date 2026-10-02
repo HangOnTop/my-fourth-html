@@ -20,7 +20,7 @@ body {
 /* Container */
 
 .container {
-    width: 90%;
+    width: 86%;
     max-width: 1170px;
     margin: 0 auto;
 
@@ -36,8 +36,11 @@ body {
 
 .font-size-small {
     font-size: 20px;
+    margin-bottom: 1px;
 }
-
+ hr{
+    margin-top: 0px;
+}
 .font-size-average {
     font-size: 25px;
 }
